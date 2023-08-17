@@ -1,4 +1,4 @@
-🌲 Forest Fractal App 🌲
+🍊 Satributed Fractal Forest App 🍊
 Welcome to the Forest Fractal App, a beautiful visual representation of fractal trees created using p5.js and Next.js 13.
 
 🚀 Features:
